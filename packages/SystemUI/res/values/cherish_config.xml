@@ -7,7 +7,10 @@
     <!-- Max visible notification icons -->
     <integer name="config_maxVisibleNotificationIcons">4</integer>
     <integer name="config_maxVisibleNotificationIconsOnLock">5</integer>
-	
+
+    <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
+    <integer name="config_screenRecorderMaxFramerate">0</integer>
+
 	<!-- Udfps vendor code -->
     <integer name="config_udfpsVendorCode">-1</integer>
 	
